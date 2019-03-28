@@ -6,7 +6,7 @@ This app allows you to add a burger to a list.  The burger can then be devoured 
 
 ## Getting Started
 
-Install required npm packages: npm install
+Install required npm packages: npm install, npm express, npm install express-handlebars, npm install mysql
 
 
 
