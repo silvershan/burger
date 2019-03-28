@@ -14,8 +14,6 @@ Run the app on your command line: node server.js
 
 
 
-## Acknowledgments
+## Heroku link
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
